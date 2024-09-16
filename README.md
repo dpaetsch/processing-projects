@@ -10,6 +10,17 @@ Each project is contained in its own folder. Below is a brief overview of the di
 - **Project 2**: Description of what this project does.
 - **Project 3**: Description of what this project does.
 
+
+Useful Tools:
+
+Finished Games:
+
+Cool Concepts:
+
+Miscellaneous:
+
+
+
 Please note that some of the projects may be unfinished or experimental, as they were part of the learning process.
 
 Feel free to explore and experiment with the code. Each project has its own set of instructions and requirements, which are included in their respective folders.
