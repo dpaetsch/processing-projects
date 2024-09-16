@@ -14,11 +14,11 @@ Each project is contained in its own folder. Below is a brief overview of the di
 #### Finished Games:
 
 #### Cool Concepts:
-- hallucination: A dynamic optical illusion whirlpool that changes based on mouse movement, created using a 2D equation.
-- starfield: An interactive starfield effect inspired by Star Wars hyperspace travel, with mouse-controlled speed.
-- ants: A playful simulation of ants walking across your screen, designed to evoke the urge to squish them.
-- terrain: A procedural terrain generator simulating high-speed flight over a landscape, originally developed for mobile but reformatted for desktop due to performance limitations.
-- raycasting_1: A simple raycasting simulation where a movable light source casts rays that interact with walls, with future iterations planned.
+- **hallucination**: A dynamic optical illusion whirlpool that changes based on mouse movement, created using a 2D equation.
+- **starfield**: An interactive starfield effect inspired by Star Wars hyperspace travel, with mouse-controlled speed.
+- **ants**: A playful simulation of ants walking across your screen, designed to evoke the urge to squish them.
+- **terrain**: A procedural terrain generator simulating high-speed flight over a landscape, originally developed for mobile but reformatted for desktop due to performance limitations.
+- **raycasting_1**: A simple raycasting simulation where a movable light source casts rays that interact with walls, with future iterations planned.
 
 #### Nice Animations:
 
