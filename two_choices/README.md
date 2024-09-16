@@ -21,4 +21,9 @@ Originally developed for the mobile version of Processing, this project has been
 ## Learnings
 This project was a fun way to learn about user input (via buttons) and randomness in Processing. It also demonstrates basic decision-making logic with simple text outputs.
 
+## Demo:
+https://github.com/user-attachments/assets/e6657e65-8ac6-4437-94dd-0253b40b4d92
+
+
+
 
