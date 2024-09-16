@@ -8,21 +8,16 @@ These projects were orginially made for the mobile version of the app, but most 
 
 Each project is contained in its own folder. Below is a brief overview of the different projects included:
 
-- **Project 1**: Description of what this project does.
-- **Project 2**: Description of what this project does.
-- **Project 3**: Description of what this project does.
-
-
-Useful Tools:
+#### Useful Tools:
 - two_choices: simple project was originally created to help decide whether to skip class or not.
 
-Finished Games:
+#### Finished Games:
 
-Cool Concepts:
+#### Cool Concepts:
 
-Nice Animations:
+#### Nice Animations:
 
-Miscellaneous:
+#### Miscellaneous:
 
 
 
