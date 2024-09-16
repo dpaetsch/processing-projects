@@ -16,6 +16,8 @@ Originally developed for the mobile version of Processing, this project has been
 3. Move the mouse to control the light source and watch as rays are cast around the scene.
 
 ## Demo
+https://github.com/user-attachments/assets/8423db14-ae59-4ead-a21e-5d7b736824c4
+
 
 
 ## Challenges / Unfinished Parts
