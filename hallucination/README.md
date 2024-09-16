@@ -15,6 +15,8 @@ Originally developed for the mobile version of Processing, this project has been
 3. Move the mouse to change the parameters of the visual and watch the illusion morph in real time.
 
 ## Demo
+https://github.com/user-attachments/assets/f9396bc3-adb9-4aea-b98e-7febccd24b5d
+
 
 
 ## Challenges / Unfinished Parts
