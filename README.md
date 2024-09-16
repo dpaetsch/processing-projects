@@ -2,6 +2,8 @@
 
 This repository is a collection of small projects created with [Processing](https://processing.org/download/) by [dpaetsch](https://github.com/dpaetsch). These projects were developed during high school as part of a learning journey to understand programming concepts and to explore creative coding.
 
+These projects were orginially made for the mobile version of the app, but most have them have been reformatted to fit the desktop version.
+
 ## Projects
 
 Each project is contained in its own folder. Below is a brief overview of the different projects included:
@@ -12,10 +14,13 @@ Each project is contained in its own folder. Below is a brief overview of the di
 
 
 Useful Tools:
+- two_choices: simple project was originally created to help decide whether to skip class or not.
 
 Finished Games:
 
 Cool Concepts:
+
+Nice Animations:
 
 Miscellaneous:
 
@@ -24,6 +29,13 @@ Miscellaneous:
 Please note that some of the projects may be unfinished or experimental, as they were part of the learning process.
 
 Feel free to explore and experiment with the code. Each project has its own set of instructions and requirements, which are included in their respective folders.
+
+## Showcase Video:
+
+
+
+
+
 
 ## Getting Started
 
