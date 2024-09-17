@@ -15,6 +15,8 @@ Originally developed for the mobile version of Processing, this project has been
 3. Watch the ants walk across the screen, simulating a playful, buggy effect.
 
 ## Demo
+https://github.com/user-attachments/assets/689d5ed7-9993-41ca-b175-24dfec694124
+
 
 
 ## Challenges / Unfinished Parts

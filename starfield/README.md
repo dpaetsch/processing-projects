@@ -15,6 +15,8 @@ Originally developed for the mobile version of Processing, this project has been
 3. Control the speed of the stars by moving your mouse horizontally.
 
 ## Demo
+https://github.com/user-attachments/assets/8150f7b6-a417-42bd-ab4e-f55a9b4d0c32
+
 
 
 ## Challenges / Unfinished Parts
