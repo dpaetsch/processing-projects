@@ -9,7 +9,7 @@ These projects were orginially made for the mobile version of the app, but most 
 Each project is contained in its own folder. Below is a brief overview of the different projects included:
 
 #### Useful Tools:
-- two_choices: simple project was originally created to help decide whether to skip class or not.
+- **two_choices**: simple project was originally created to help decide whether to skip class or not.
 
 #### Finished Games:
 
@@ -21,7 +21,8 @@ Each project is contained in its own folder. Below is a brief overview of the di
 - **raycasting_1**: A simple raycasting simulation where a movable light source casts rays that interact with walls, with future iterations planned.
 
 #### Nice Animations:
-
+- **moving_circles_1**: A mesmerizing animation of 20 slightly offset concentric circles that undulate, shrink, and grow with time.
+- **moving_circles_2**: An interactive illusion of a 3D cone created by concentric circles, with mouse movement revealing patterns like a flower.
 
 #### Miscellaneous:
 
