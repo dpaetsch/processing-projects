@@ -21,6 +21,7 @@ Each project is contained in its own folder. Below is a brief overview of the di
 - **raycasting_1**: A simple raycasting simulation where a movable light source casts rays that interact with walls, with future iterations planned.
 
 #### Nice Animations:
+- **bouncing_balls**: A program featuring 200 balls with random movement and direction, bouncing off the edges of the screen. My first-ever programming project.
 - **moving_circles_1**: A mesmerizing animation of 20 slightly offset concentric circles that undulate, shrink, and grow with time.
 - **moving_circles_2**: An interactive illusion of a 3D cone created by concentric circles, with mouse movement revealing patterns like a flower.
 
