@@ -31,7 +31,9 @@ Each project is contained in its own folder. Below is a brief overview of the di
 - **button_square_template**: A reusable square, opaque button class that detects mouse clicks, ideal for user interface components.
 
 #### Miscellaneous:
-
+- **colored_grid_1**: A trippy grid of squares, each with a randomly changing color on every frame.
+- **colored_grid_2**: A grid of squares with random colors, where the brightness is controlled by the height of the mouse.
+- **cube3D**: A simple 3D cube that rotates based on mouse movement, my first project in 3D programming.
 
 
 Please note that some of the projects may be unfinished or experimental, as they were part of the learning process.
