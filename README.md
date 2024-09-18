@@ -8,10 +8,8 @@ These projects were orginially made for the mobile version of the app, but most 
 
 Each project is contained in its own folder. Below is a brief overview of the different projects included:
 
-#### Useful Tools:
-- **two_choices**: simple project was originally created to help decide whether to skip class or not.
-
 #### Finished Games:
+- **game_tic_tac_toe**: A simple, clean two-player tic-tac-toe game that keeps score of wins and detects ties.
 
 #### Cool Concepts:
 - **hallucination**: A dynamic optical illusion whirlpool that changes based on mouse movement, created using a 2D equation.
@@ -26,6 +24,11 @@ Each project is contained in its own folder. Below is a brief overview of the di
 - **bouncing_balls_lines_change**: An iteration where bouncing balls leave vibrant, randomized colored lines on the screen, creating a mesmerizing effect.
 - **moving_circles_1**: A mesmerizing animation of 20 slightly offset concentric circles that undulate, shrink, and grow with time.
 - **moving_circles_2**: An interactive illusion of a 3D cone created by concentric circles, with mouse movement revealing patterns like a flower.
+
+#### Useful Tools:
+- **two_choices**: simple project was originally created to help decide whether to skip class or not.
+- **button_template**: A reusable circular button class that detects mouse clicks, useful for interactive user interfaces.
+- **button_square_template**: A reusable square, opaque button class that detects mouse clicks, ideal for user interface components.
 
 #### Miscellaneous:
 
