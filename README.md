@@ -19,6 +19,8 @@ Each project is contained in its own folder. Below is a brief overview of the di
 - **raycasting_1**: A simple raycasting simulation where a movable light source casts rays that interact with walls, with future iterations planned.
 
 #### Nice Animations:
+- **computer_art_1**: Colorful vertical lines sweep across the screen in a controlled yet random way, evoking the aesthetics of early computer-generated art.
+- **computer_art_2**: A beautiful rose-like structure generated using parametric functions, painted on the screen with precision.
 - **bouncing_balls**: A program featuring 200 balls with random movement and direction, bouncing off the edges of the screen. My first-ever programming project.
 - **bouncing_balls_lines**: An iteration where bouncing balls leave behind mesmerizing lines on the screen as the background never resets.
 - **bouncing_balls_lines_change**: An iteration where bouncing balls leave vibrant, randomized colored lines on the screen, creating a mesmerizing effect.
