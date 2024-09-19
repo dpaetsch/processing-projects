@@ -27,6 +27,7 @@ Each project is contained in its own folder. Below is a brief overview of the di
 - **semi_animation_1**: Concentric semicircles rotating at different speeds, creating mesmerizing strips of half circles.
 - **semi_animation_2**: Concentric semicircles that reverse direction at a threshold angle, creating a rhythmic back-and-forth motion.
 - **semi_animation_3**: Semicircle strips start together, then rotate randomly with unique angular velocities, adding chaotic motion.
+- **semi_animation_4**: Semicircle strips start at 0 degrees and gradually increase in angle until they complete the circle.
 
 
 #### Useful Tools:
