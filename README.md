@@ -26,6 +26,7 @@ Each project is contained in its own folder. Below is a brief overview of the di
 - **computer_art_5**: A baton-like lightstick spins, leaving a continuous afterimage that permanently follows its path, enhancing the visual effect of motion.
 - **computer_art_6**: Neon-colored lines create a mesmerizing, arcade-like visual effect, evoking the vibrant atmosphere of a night-time arcade.
 - **computer_art_7**: Three sticks in red, green, and blue dance around each other, creating a lively and captivating visual effect.
+- **computer_art_8**: Lines take on a ghostly shape, no longer instantly recognizable, creating an eerie and haunting visual effect.
 - **bouncing_balls**: A program featuring 200 balls with random movement and direction, bouncing off the edges of the screen. My first-ever programming project.
 - **bouncing_balls_lines**: An iteration where bouncing balls leave behind mesmerizing lines on the screen as the background never resets.
 - **bouncing_balls_lines_change**: An iteration where bouncing balls leave vibrant, randomized colored lines on the screen, creating a mesmerizing effect.
