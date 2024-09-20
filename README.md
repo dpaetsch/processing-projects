@@ -17,6 +17,8 @@ Each project is contained in its own folder. Below is a brief overview of the di
 - **ants**: A playful simulation of ants walking across your screen, designed to evoke the urge to squish them.
 - **terrain**: A procedural terrain generator simulating high-speed flight over a landscape, originally developed for mobile but reformatted for desktop due to performance limitations.
 - **raycasting_1**: A simple raycasting simulation where a movable light source casts rays that interact with walls, with future iterations planned.
+- **raycasting_2**: Simulates a light source emitting rays that interact with and stop at sparse boxes, demonstrating the basics of light interaction with objects.
+- **raycasting_3**: A controllable light source creates intricate and mesmerizing light patterns on a uniform grid of boxes, offering an interactive exploration of light simulation.
 
 #### Nice Animations:
 - **computer_art_1**: Colorful vertical lines sweep across the screen in a controlled yet random way, evoking the aesthetics of early computer-generated art.
