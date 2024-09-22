@@ -10,6 +10,8 @@ Each project is contained in its own folder. Below is a brief overview of the di
 
 #### Finished Games:
 - **game_tic_tac_toe**: A simple, clean two-player tic-tac-toe game that keeps score of wins and detects ties.
+- **game_connect4**: A polished 2-player Connect 4 game with win/tie detection and a scoreboard. 
+- **game_click_balls**: Click 10 moving balls as quickly as possible for points! Displays your score, time, and the highest score with the option to replay.
 
 #### Cool Concepts:
 - **hallucination**: A dynamic optical illusion whirlpool that changes based on mouse movement, created using a 2D equation.
