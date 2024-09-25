@@ -39,6 +39,7 @@ Each project is contained in its own folder. Below is a brief overview of the di
 - **bouncing_balls_lines_change**: An iteration where bouncing balls leave vibrant, randomized colored lines on the screen, creating a mesmerizing effect.
 - **moving_circles_1**: A mesmerizing animation of 20 slightly offset concentric circles that undulate, shrink, and grow with time.
 - **moving_circles_2**: An interactive illusion of a 3D cone created by concentric circles, with mouse movement revealing patterns like a flower.
+- **falling_blocks**: A Matrix-inspired effect where green squares fall from the top of the screen on a black background, creating a minimalist visual experience.
 - **semi_animation_1**: Concentric semicircles rotating at different speeds, creating mesmerizing strips of half circles.
 - **semi_animation_2**: Concentric semicircles that reverse direction at a threshold angle, creating a rhythmic back-and-forth motion.
 - **semi_animation_3**: Semicircle strips start together, then rotate randomly with unique angular velocities, adding chaotic motion.
