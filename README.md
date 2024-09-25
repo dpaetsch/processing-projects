@@ -46,9 +46,10 @@ Each project is contained in its own folder. Below is a brief overview of the di
 
 
 #### Useful Tools:
-- **two_choices**: simple project was originally created to help decide whether to skip class or not.
+- **rainbow**: A smooth rainbow effect generator, used to add vibrant color transitions to various projects, like the Double Pendulum.
 - **button_template**: A reusable circular button class that detects mouse clicks, useful for interactive user interfaces.
 - **button_square_template**: A reusable square, opaque button class that detects mouse clicks, ideal for user interface components.
+- **two_choices**: simple project was originally created to help decide whether to skip class or not.
 
 #### Miscellaneous:
 - **colored_grid_1**: A trippy grid of squares, each with a randomly changing color on every frame.
