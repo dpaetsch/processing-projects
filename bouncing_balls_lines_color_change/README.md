@@ -17,6 +17,8 @@ Originally designed for the mobile version of Processing, this project has been 
 3. Watch as the bouncing balls leave colored trails that shift with each frame, forming vibrant, mesmerizing patterns.
 
 ## Demo
+https://github.com/user-attachments/assets/44028fd6-3151-4353-a9d0-453b9081c8a0
+
 
 
 ## Challenges / Unfinished Parts
