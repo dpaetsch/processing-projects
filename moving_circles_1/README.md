@@ -15,6 +15,8 @@ Originally developed for the mobile version of Processing, this project has been
 3. Watch as the circles animate in a rhythmic, mesmerizing motion.
 
 ## Demo
+https://github.com/user-attachments/assets/83d3279c-d66a-4889-b23f-c994cc79edaa
+
 
 
 ## Challenges / Unfinished Parts
