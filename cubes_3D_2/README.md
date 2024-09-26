@@ -15,6 +15,8 @@
 3. Watch as the cubes move across the screen, rotate, and leave behind afterimages, creating a stunning visual display.
 
 ## Demo
+https://github.com/user-attachments/assets/3bb5c72e-5ea9-4b29-950c-338b49f2bcd6
+
 
 
 ## Learnings
