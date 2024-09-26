@@ -16,6 +16,8 @@ This project was developed to explore the interplay of rotation, geometry, and v
 3. Watch the semicircles rotate at different speeds, creating a dynamic visual effect.
 
 ## Demo
+https://github.com/user-attachments/assets/0dfc464e-7c45-4fc7-8c6f-df4e2af021c9
+
 
 
 ## Challenges / Unfinished Parts
