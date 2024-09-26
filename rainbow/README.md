@@ -14,6 +14,8 @@
 3. Apply the color to your desired shapes, objects, or paths for stunning visual effects.
 
 ## Demo
+https://github.com/user-attachments/assets/78fac5b4-95cc-4f4e-9140-15b9a5e6cb4a
+
 
 
 ## Learnings
