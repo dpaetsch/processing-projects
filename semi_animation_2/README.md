@@ -16,6 +16,8 @@ This iteration expands the visual complexity by introducing constraints to the m
 3. Watch the semicircles rotate, reversing direction once they hit a threshold, creating an oscillating visual pattern.
 
 ## Demo
+https://github.com/user-attachments/assets/f36c51b7-7039-4100-ac9f-244a25ccd2bb
+
 
 
 ## Challenges / Unfinished Parts
