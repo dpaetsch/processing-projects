@@ -14,6 +14,8 @@
 3. Watch the double pendulum move chaotically, leaving behind a colorful path that forms intricate, mesmerizing patterns.
 
 ## Demo
+https://github.com/user-attachments/assets/4eaf32ee-b874-4978-a432-69b86ce586dd
+
 
 
 ## Learnings
