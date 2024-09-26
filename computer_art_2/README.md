@@ -16,6 +16,8 @@ This project demonstrates the power of combining math and creativity to produce 
 3. Watch as the program draws a beautiful, intricate rose-like structure on the screen using parametric equations.
 
 ## Demo
+https://github.com/user-attachments/assets/150583f3-a021-4e1e-8d40-3c401dce5f64
+
 
 
 ## Challenges / Unfinished Parts
