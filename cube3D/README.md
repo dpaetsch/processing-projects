@@ -16,6 +16,8 @@ This project was my first experience with 3D programming and helped me understan
 3. Move the mouse around the screen to rotate the cube and observe its response to your input.
 
 ## Demo
+https://github.com/user-attachments/assets/d8d77189-30f4-4293-8237-838b303bc44a
+
 
 
 ## Challenges / Unfinished Parts
