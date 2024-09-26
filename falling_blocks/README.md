@@ -14,6 +14,8 @@
 3. Enjoy the simple yet mesmerizing visual effect.
 
 ## Demo
+https://github.com/user-attachments/assets/fcb6592b-5262-4adf-8697-7b8534b419e6
+
 
 
 ## Learnings
