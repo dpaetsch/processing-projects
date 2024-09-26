@@ -16,6 +16,8 @@ The project builds on previous raycasting concepts by adding user control and ex
 3. Move the mouse to control the light source and observe the patterns of light that form on the grid of boxes.
 
 ## Demo
+https://github.com/user-attachments/assets/c4c495ca-e915-4119-a792-75e36c4c3ca1
+
 
 
 ## Challenges / Unfinished Parts
