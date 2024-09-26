@@ -17,6 +17,8 @@
 5. Click "Play Again" to try and beat your previous score and time!
 
 ## Demo
+https://github.com/user-attachments/assets/5449bfe2-e881-494f-a06d-195813c4262e
+
 
 
 ## Future Improvements
