@@ -18,6 +18,10 @@ This project takes the rhythmic motion of the earlier iterations and adds an ele
 ## Demo
 
 
+https://github.com/user-attachments/assets/167301f9-9926-4d08-a3b6-1fe19f76b28f
+
+
+
 ## Challenges / Unfinished Parts
 - Future iterations could introduce additional interaction, such as user control over angular velocity or direction.
 
