@@ -16,6 +16,8 @@ The project focuses on understanding the fundamental concept of raycasting and l
 3. Observe the light rays interacting with the boxes as they hit and stop, simulating basic light behavior.
 
 ## Demo
+https://github.com/user-attachments/assets/e457719e-7793-4bc1-9951-faf6945aeb7e
+
 
 
 ## Challenges / Unfinished Parts
