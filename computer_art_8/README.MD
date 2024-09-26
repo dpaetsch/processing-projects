@@ -17,7 +17,6 @@ This project explores the manipulation of line shapes to create an eerie and gho
 
 ## Demo
 
-
 ## Challenges / Unfinished Parts
 - Future enhancements could involve experimenting with different ghostly effects or interactive elements to deepen the eerie atmosphere.
 
