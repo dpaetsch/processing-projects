@@ -16,6 +16,8 @@ Originally designed for the mobile version of Processing, this project has been 
 3. Watch as the balls bounce around and leave continuous lines behind them, creating mesmerizing patterns.
 
 ## Demo
+https://github.com/user-attachments/assets/a3dad977-3603-4e41-82c4-05c4519faa21
+
 
 
 ## Challenges / Unfinished Parts
