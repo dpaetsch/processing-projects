@@ -16,6 +16,8 @@ This project further expands on the concept of color randomness, allowing for gr
 3. Move the mouse up and down to control the brightness of the colors, watching as the grid's brightness shifts based on your input.
 
 ## Demo
+https://github.com/user-attachments/assets/132b3160-6874-4fea-b18b-c39a525f7d30
+
 
 
 ## Challenges / Unfinished Parts
