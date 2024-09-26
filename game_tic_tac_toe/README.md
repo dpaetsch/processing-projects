@@ -17,6 +17,8 @@ Originally developed for the mobile version of Processing, this project has been
 3. Two players take turns placing Xs and Os. The game will automatically track wins and ties.
 
 ## Demo
+https://github.com/user-attachments/assets/5b1a683e-5569-4789-a169-f08b87778d34
+
 
 
 ## Challenges / Unfinished Parts
