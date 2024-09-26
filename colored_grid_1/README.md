@@ -16,6 +16,8 @@ Originally designed for Processing, this project offers a simple but effective w
 3. Watch the grid of squares as their colors shift randomly with each frame, creating a trippy visual effect.
 
 ## Demo
+https://github.com/user-attachments/assets/0003397c-26e8-492f-a133-b6b0bac57853
+
 
 
 ## Challenges / Unfinished Parts
