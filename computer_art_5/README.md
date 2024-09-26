@@ -16,6 +16,8 @@ This project delves deeper into the effects of motion persistence, providing a r
 3. Observe as the lightstick spins, with its afterimage permanently following its path across the screen.
 
 ## Demo
+https://github.com/user-attachments/assets/77327be0-6c0c-4ac2-a1a9-a6ef08addbc6
+
 
 
 ## Challenges / Unfinished Parts
