@@ -18,6 +18,10 @@ This project highlights a gradual build-up of motion, showcasing the transformat
 ## Demo
 
 
+https://github.com/user-attachments/assets/ee058f3e-0f15-4fbe-b5ee-d75291479b43
+
+
+
 ## Challenges / Unfinished Parts
 - Potential future enhancements include variable speed control or user interaction for adjusting the angle.
 
