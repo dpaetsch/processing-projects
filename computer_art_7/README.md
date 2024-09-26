@@ -16,6 +16,8 @@ This project explores the synchronization of colored elements in motion and thei
 3. Watch as the red, green, and blue sticks dance around each other, creating a lively and engaging visual effect.
 
 ## Demo
+https://github.com/user-attachments/assets/54480e90-8fe4-43ef-8593-57853b00fd37
+
 
 
 ## Challenges / Unfinished Parts
