@@ -16,6 +16,8 @@ This project aims to capture the charm of early digital visuals while exploring 
 3. Watch as colorful vertical lines sweep across the screen in a visually engaging pattern.
 
 ## Demo
+https://github.com/user-attachments/assets/cd2d36dd-ceb9-4ac8-8dae-29a5a47407d3
+
 
 
 ## Challenges / Unfinished Parts
