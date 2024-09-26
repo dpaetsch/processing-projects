@@ -19,6 +19,8 @@ Future improvements could include adding a Player vs AI mode with various diffic
 5. Repeat for as many rounds as you like!
 
 ## Demo
+https://github.com/user-attachments/assets/dde8ddf6-c58b-4ba4-b046-16f63f0f67a9
+
 
 
 ## Future Improvements
