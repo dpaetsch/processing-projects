@@ -16,6 +16,7 @@ This project explores the fusion of mathematical functions and geometric shapes 
 3. Observe as the program paints a pattern on the screen that evokes a sphere contained within cylinders.
 
 ## Demo
+https://github.com/user-attachments/assets/18316194-6bf1-4aa5-9673-684a1c0cd74a
 
 
 ## Challenges / Unfinished Parts
