@@ -19,8 +19,9 @@
 5. The game will detect and announce the winner when a player gets four in a row or when there’s a tie.
 
 ## Demo
-DEMO 1
-DEMO 2
+https://github.com/user-attachments/assets/516fffd2-5ea1-40a0-9fa5-9261890d5745
+
+https://github.com/user-attachments/assets/598e2e3e-cec7-49e6-83b1-1d18399f0ce3
 
 ## Future Improvements
 - Adding Player vs AI mode with different difficulty settings.
